@@ -1,2 +1,2 @@
 # aula1
-Primeiro repositório do curs de Laravel
+Primeiro repositório do curso de Laravel
